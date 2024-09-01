@@ -1,0 +1,18 @@
+<!-- templates/index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Recommender</title>
+</head>
+<body>
+    <h1>College Recommender</h1>
+    <form action="/recommend" method="post">
+        <label for="preferences">Enter your preferences:</label>
+        <input type="text" id="preferences" name="preferences" required>
+        <button type="submit">Get Recommendations</button>
+    </form>
+</body>
+</html>

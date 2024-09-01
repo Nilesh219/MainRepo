@@ -1,0 +1,652 @@
+Date,Product_name,Price
+20-02-2024,Jaguar black,1050
+21-02-2024,Jaguar blue,1050
+22-02-2024,Jaguar green,1050
+23-02-2024,Jaguar gold,1250
+24-02-2024,Ferrari Balck,1500
+25-02-2024,Ferrari red,1700
+26-02-2024,Ck one 200 ml,2700
+27-02-2024,Ck be 200 ml,2300
+28-02-2024,Mb legend man,3100
+29-02-2024,Mb legend edp,3400
+01-03-2024,Mb starwalker ,2300
+02-03-2024,Mb individual man,2300
+03-03-2024,Mb spirit,3200
+04-03-2024,One million 100 ml,4300
+05-03-2024,One million 200 ml,6500
+06-03-2024,One million edp,4600
+07-03-2024,Polo blue,4100
+08-03-2024,Polo blue edp,4600
+09-03-2024,Polo ulra blue,4400
+10-03-2024,Davidoff the game man,1850
+11-03-2024,Guess dare,1600
+12-03-2024,Paco green,2100
+13-03-2024,Guess dare,1600
+14-03-2024,Burberry touch man,2400
+15-03-2024,Desire red,1950
+16-03-2024,Desire blue,1950
+17-03-2024,Boss iced,2800
+18-03-2024,Polo blue 200 ml,5400
+19-03-2024,Ch good girl collector,5400
+20-03-2024,Ch good girl glitter,5400
+21-03-2024,Azzaro Balck 100 ml,2700
+22-03-2024,Azzaro Balck 200 ml,3400
+23-03-2024,Tomford black orchid,9300
+24-03-2024,Guess night,1400
+25-03-2024,Dior sauvage edp,8900
+26-03-2024,Hermes h 24,5409
+27-03-2024,Boss just different 125 ml,2900
+28-03-2024,Boss green 125 ml,2800
+29-03-2024,Boss green 200 ml,3400
+30-03-2024,Boss green 75 ml,2100
+31-03-2024,Burberry her blossom,4100
+01-04-2024,Moschino toy 2,4500
+02-04-2024,Guerlain intense edp,4300
+03-04-2024,Victoria secret bombshell,5200
+04-04-2024,Victoria secret tease,5100
+05-04-2024,Victoria secret rebel,5100
+06-04-2024,Bvlagri man extreme,3600
+07-04-2024,YSL y edt,5600
+08-04-2024,YSL y edp,6100
+09-04-2024,YSL y libre,6300
+10-04-2024,YSL y libre le perfume ,6300
+11-04-2024,YSL y le perfume,6300
+12-04-2024,Gucci bloom classic,7000
+13-04-2024,Gucci bloom fiori,7300
+14-04-2024,Gucci bloom ambrosia ,7200
+15-04-2024,Gucci bloom nettare,6900
+16-04-2024,Romance women,4300
+17-04-2024,Versace dylan blue 200 ml,6200
+18-04-2024,Versace dylan blue turquoise ,4500
+19-04-2024,212 vip man ,4300
+20-04-2024,212 sexy man,4300
+21-04-2024,212 hero,4800
+22-04-2024,212 vip red ,4700
+23-04-2024,YSL cinema,4700
+24-04-2024,Escada especially ,3200
+25-04-2024,Ck eternity air man ,2300
+26-04-2024,Versace blue jeans,1650
+27-04-2024,Versace yellow diamond,4300
+28-04-2024,Versace l homme,3300
+29-04-2024,Versace pH 100 ml,4300
+30-04-2024,Davidoff coolwater man ,1775
+01-05-2024,Davidoff coolwater women,1775
+02-05-2024,Davidoff coolwater man 200 m,2150
+03-05-2024,Davidoff coolwater intense man,2700
+04-05-2024,Davidoff coolwater edp,2900
+05-05-2024,Ck escape man ,1900
+06-05-2024,Narciso for him edt,4300
+07-05-2024,Narciso for him edp,4600
+08-05-2024,Narciso for him pure musc,4500
+09-05-2024,Narciso for him fluer musc,4500
+10-05-2024,Narciso pink women,4400
+11-05-2024,Roberto Cavalli edp,2800
+12-05-2024,Roberto Cavalli Paradiso,2800
+13-05-2024,Roberto Cavalli absolute ,2800
+14-05-2024,Roberto Cavalli uomo ,2700
+15-05-2024,Armansi si passion edp ,5900
+16-05-2024,Armani si passion intense ,6300
+17-05-2024,Versace eau frachie 100 ml ,3609
+18-05-2024,Versace eau fraiche 200 ml ,5600
+19-05-2024,Hermes orange d vert,5699
+20-05-2024,Hermes twilly ,5800
+21-05-2024,Estee Lauder pleasure man ,3800
+22-05-2024,Estee Lauder pleasure women  ,4300
+23-05-2024,Este Lauder pleasure women intense:,4600
+24-05-2024,Chanel no 5 ,10900
+25-05-2024,Chanel Coco madamoiseele,10900
+26-05-2024,Chanel allure balance ,11000
+27-05-2024,Poison girl,9300
+28-05-2024,Dior addict fraiche ,6400
+29-05-2024,Dior jadore ,9200
+30-05-2024,Dior jador in joy edp ,9400
+31-05-2024,Diro jadore supreme ,9600
+01-06-2024,Happy man ,3400
+02-06-2024,Happy women ,3609
+03-06-2024,Happy heart,3100
+04-06-2024,Dolce lb man ,3609
+05-06-2024,Dolce pH man,3600
+06-06-2024,Dolce king ,4500
+07-06-2024,Dolce love is love,4500
+08-06-2024,Givenchy gentleman edt,4600
+09-06-2024,Givenchy gentleman man edp,5100
+10-06-2024,Givenchy gentleman boisse,4800
+11-06-2024,Givenchy l interdit black,6100
+12-06-2024,Givenchy l interdit rouge ,6300
+13-06-2024,Chanel chance tender ,11000
+14-06-2024,Ck in 2 u man 100 ml,1750
+15-06-2024,Ck in 2u women  ,1750
+16-06-2024,Ck in 2 u man 150 ml ,2050
+17-06-2024,Ck in 2 u women 159 ml ,2050
+18-06-2024,Boss number one,2500
+19-06-2024,Gucci guilty man colongue,6300
+20-06-2024,Lancome miracle women  ,5800
+21-06-2024,Lancome la vie est belle,6400
+22-06-2024,Lancome la viest bell flower ,6800
+23-06-2024,Armani my way ,7100
+24-06-2024,Burberry touch man  ,2400
+25-06-2024,Burberry touch women  ,2600
+26-06-2024,Burberry Brit him ,2800
+27-06-2024,Burberry Brit her,2850
+28-06-2024,Burberry Brit her edp,2950
+29-06-2024,Burberry Brit her edt ,2900
+30-06-2024,Burberry herobedt ,6300
+01-07-2024,Burberry hero edp ,7109
+02-07-2024,Hermes pure edp ,6300
+03-07-2024,Mr burberry edp 100 ml,4900
+04-07-2024,Mr burberry edp 150 ml,5600
+05-07-2024,Mr burberry edt 100 ml,3900
+06-07-2024,Mr burberry indigo 150 ml,5300
+07-07-2024,Paco ultraviolet man,2900
+08-07-2024,Dony be delicious women,2800
+09-07-2024,Bvlagri white man,3600
+10-07-2024,Marc Jacobs Daisy,6100
+11-07-2024,Tommy man ,1950
+12-07-2024,Tommy now man ,2700
+13-07-2024,Burberry fabric man ,2850
+14-07-2024,Burberry fabric women ,3300
+15-07-2024,Davidoff horizon ,2100
+16-07-2024,Versace Eros man edt,4300
+17-07-2024,Versace Eros man edp ,5100
+18-07-2024,Versace Eros man perfume,7400
+19-07-2024,Estee Lauder beautiful,4300
+20-07-2024,Creed silver mountain water,16500
+21-07-2024,Creed Himalayas,16500
+22-07-2024,Miss dior roses ,7100
+23-07-2024,Joop jump,1700
+24-07-2024,Dunhill icon ,2900
+25-07-2024,Boss orange man ,2700
+26-07-2024,Ck free man,1850
+27-07-2024,Ck Balck man  ,1900
+28-07-2024,Boss deep red ,2700
+29-07-2024,Gucci flora gorgeous gardenia,7400
+30-07-2024,Gucci flora gorgeous gardenia limited edition ,7509
+31-07-2024,Lacoste white Blanc fraiche,3650
+01-08-2024,Dolce no 3 femme ,2900
+02-08-2024,Bvlagri Jasmin noir ,4200
+03-08-2024,Versace Eros flame  ,5109
+04-08-2024,Boss selection,2709
+05-08-2024,Ck one gold 100 ml ,2200
+06-08-2024,Azzaro limited edition,2100
+07-08-2024,Lacoste booster,3409
+08-08-2024,Chhc man ,3300
+09-08-2024,Cartier declaration,5800
+10-08-2024,YSL mon Paris intense ment ,6300
+11-08-2024,Lacoste essential,2709
+12-08-2024,Azzaro Balck intense ,2500
+13-08-2024,Chloe love story,4500
+14-08-2024,Aqua di gio 100 ml,5400
+15-08-2024,Aqua di gio profound ,6100
+16-08-2024,Aqua di gio absolute,5800
+17-08-2024,Contradiction women  ,2300
+18-08-2024,Herrera man,3200
+19-08-2024,Burberry classic red ,2800
+20-08-2024,Azzaro elixr,2100
+21-08-2024,Jo Malone,8900
+22-08-2024,Lanvin blue man  ,1800
+23-08-2024,Prada Luna rossa 150 ml ,5800
+24-08-2024,Drakkar noir 100 ml,2100
+25-08-2024,My burberry edp ,6300
+26-08-2024,My burberry gold ,6300
+27-08-2024,Versace l homme,3100
+28-08-2024,Bvlagri glacia essence,5100
+29-08-2024,Versace dreamer ,2800
+30-08-2024,Versace Eros man edp 200 ml,7200
+31-08-2024,Versace pH 100 ml ,4400
+01-09-2024,Versace pH 200l ,6100
+02-09-2024,Elizabeth Arden white diamond,2300
+03-09-2024,Elizabeth Arden 5 th Avenue ,2100
+04-09-2024,Mb emblem  ,3100
+05-09-2024,Narciso for her rose,4400
+06-09-2024,Coach women edp ,3100
+07-09-2024,Coach women florale ,3300
+08-09-2024,Coach man edt,3100
+09-09-2024,Burberry weekend man,2409
+10-09-2024,Versace crystal noir,4409
+11-09-2024,Cartier declaration leau ,6300
+12-09-2024,Eternity aqua man  ,2000
+13-09-2024,Eternity aqua man 200 ml ,2800
+14-09-2024,Euphoria man  ,2400
+15-09-2024,Elizabeth Arden red door ,2400
+16-09-2024,Givenchy brown man  ,4100
+17-09-2024,Issey miyake women summer,3600
+18-09-2024,Mb explorer ultra blue,4300
+19-09-2024,Issey miyake 75 ml ,3100
+20-09-2024,Issey miyake 125 ml ,3800
+21-09-2024,Issey Miyake intense,3100
+22-09-2024,Jimmy Choo grey man ,3450
+23-09-2024,Jimmy Choo intense ,3450
+24-09-2024,Issey Miyake 200 ml,5200
+25-09-2024,Paco phantom,5600
+26-09-2024,Paco green ,2100
+27-09-2024,Burberry touchi man  ,2400
+28-09-2024,Burberry touch women  ,2609
+29-09-2024,Ck be 100 ml ,1700
+30-09-2024,Burberry classic women,2800
+01-10-2024,Ck obsession women night,2700
+02-10-2024,Calvin Klein man,1850
+03-10-2024,Bvlgari wood essence ,5100
+04-10-2024,Coolwater man 75 ml ,1200
+05-10-2024,Mb explorer,4100
+06-10-2024,Dolce the one man collector barbeque ,4400
+07-10-2024,Mb presence man,2100
+08-10-2024,Ck beauty,2300
+09-10-2024,Dolce the one 150 ml ,6100
+10-10-2024,Jaguar black ,1050
+11-10-2024,Jagaur gold ,1200
+12-10-2024,Jagaur blue  ,1050
+13-10-2024,Jagaur green ,1000
+14-10-2024,Jagaur red ,1250
+15-10-2024,Jaguar ultimate power,1350
+16-10-2024,Jaguar electric sky ,1350
+17-10-2024,D&g king edt 100ml ,4500
+18-10-2024,D&g light blue man,3600
+19-10-2024,D&g no 3 femme,2900
+20-10-2024,D&g no 3 limited edition  ,3200
+21-10-2024,D&g light blue forever man,3800
+22-10-2024,D&g light blue love and love ladies ,4600
+23-10-2024,Miss Dior blooming bouquet ,9600
+24-10-2024,Miss Dior edp 100ml ,9300
+25-10-2024,Dior poison girl  ,9200
+26-10-2024,Dior sauvage edp,9000
+27-10-2024,Dior Fahrenheit edt 100ml ,6800
+28-10-2024,Dior jadore edp 100ml ,10500
+29-10-2024,Dior jadore edp 50ml,5600
+30-10-2024,Dior forever and ever ,6800
+31-10-2024,Dunhill red 100ml ,2000
+01-11-2024,Dunhill red 150ml ,2400
+02-11-2024,Dunhill blue 100ml ,2000
+03-11-2024,Dunhill blue 150ml ,2400
+04-11-2024,Dunhill silver 100ml  ,2100
+05-11-2024,Guerlain I homme ideal intense edp ,4500
+06-11-2024,Ferrari black,1500
+07-11-2024,Ferrari red  ,1600
+08-11-2024,Aramis brown edt 110ml,2100
+09-11-2024,Aramis brown edt 240ml ,2900
+10-11-2024,Givenchy dhalia divin ,3800
+11-11-2024,Givenchy blue label ,3800
+12-11-2024,Givenchy I interit edp 50ml,4500
+13-11-2024,Hugo xy man ,3100
+14-11-2024,Hugo boss element ,2700
+15-11-2024,Hugo just different 125ml. ,2750
+16-11-2024,Hugo green 125ml ,2750
+17-11-2024,Hugo green 200ml,3400
+18-11-2024,Verscae bright crystal,4500
+19-11-2024,Versace red jeans ,1700
+20-11-2024,Verscae eau frachie ,3700
+21-11-2024,Versace Eros man  ,4500
+22-11-2024,Versace parfume ,7800
+23-11-2024,Versace Eros edp ,5700
+24-11-2024,Verscae Eros flame edp,5100
+25-11-2024,Azzaro black 100ml,2700
+26-11-2024,Azzaro black 200ml ,3300
+27-11-2024,Azzaro night time ,1900
+28-11-2024,Azzaro chrome 100ml ,2650
+29-11-2024,Azzaro chrome sport,2200
+30-11-2024,Azzaro chrome legend ,2800
+01-12-2024,Azzaro limited edition,2100
+02-12-2024,Azzaro black 50ml ,1500
+03-12-2024,Azzaro silver black ,2100
+04-12-2024,Azzaro decibel edt 100ml,2500
+05-12-2024,Azzaro visit man ,1950
+06-12-2024,Azzaro wanted girl ,3600
+07-12-2024,212 Man  200ml,6200
+08-12-2024,212 ladies ,3200
+09-12-2024,212 sexy man  ,4000
+10-12-2024,212 sexy ladies  ,4100
+11-12-2024,212 vip.black man  ,4400
+12-12-2024,Victoria secret bombshell paradise,5000
+13-12-2024,Victoria secret bombshell pink ,5200
+14-12-2024,Victoria secret tease ,5100
+15-12-2024,Victoria secret tease rabel ,4900
+16-12-2024,Victoria secret bombshell seduction 5100Victoria secret eau di parfume,5100
+17-12-2024,Chanel coco madammosille,11500
+18-12-2024,Chanel platinum egoiste ,11500
+19-12-2024,Chanel coco noir ,11500
+20-12-2024,Chanel chance eau tender,11500
+21-12-2024,Chanel no 5edp ,11500
+22-12-2024,Chanel no 5 leau ,11500
+23-12-2024,Chanel coco madammosille prive,11500
+24-12-2024,Lancome la vie est belle ,7800
+25-12-2024,Lalique encre noir ,2400
+26-12-2024,Happy ladies ,3700
+27-12-2024,Wave man 125ml,2100
+28-12-2024,The game man ,2100
+29-12-2024,Coolwater man,1800
+30-12-2024,Coolwater ladies,1800
+31-12-2024,Coolwater man 200ml ,2400
+01-01-2025,Coolwater carbbien summer man ,2100
+02-01-2025,Hotwater ,1750
+03-01-2025,Adventure,1900
+04-01-2025,Coolwater summer man,2200
+05-01-2025,Coolwater exotic summer,2200
+06-01-2025,Guess girl  ,1600
+07-01-2025,Guess pink ladies ,1600
+08-01-2025,Guess night man ,1600
+09-01-2025,Guess dare man,1600
+10-01-2025,Guess green man ,1500
+11-01-2025,Joop red 200mlv,2600
+12-01-2025,Armani my way,7800
+13-01-2025,Armani si passion intense edp,6800
+14-01-2025,Burberry mr edp 100ml ,5200
+15-01-2025,Burberry weekend ladies ,2600
+16-01-2025,Burberry weekend man ,2400
+17-01-2025,Burberry Brit him,2800
+18-01-2025,Burberry Brit her ,2800
+19-01-2025,Burberry landon  man vl,2900
+20-01-2025,Burberry landon ladies,3000
+21-01-2025,Burberry Brit sheer ,2800
+22-01-2025,Burberry touch man ,2400
+23-01-2025,Burberry touch ladies 2,600
+24-01-2025,Burbeey body edp ,3100
+25-01-2025,Burberry classic red man,2800
+26-01-2025,Burberry brit rhythm man,2700
+27-01-2025,Burbeey brit intense man ,2700
+28-01-2025,Burberry hero edt 100ml,6300
+29-01-2025,Zara vibrat light ,4000
+30-01-2025,Abercrombie Fitch man cologne,4200
+31-01-2025,Tomford black orchid ,8900
+01-02-2025,Tomford better beach ,16000
+02-02-2025,Tomford tabbco oud ,16000
+03-02-2025,Tomford vanila ,16000
+04-02-2025,Drakkar noir 200ml,2800
+05-02-2025,Kenzo aqua manv,3100
+06-02-2025,Mb legend Nightv,3200
+07-02-2025,Mb explore ultra blue,4300
+08-02-2025,Mb explorer ,4100
+09-02-2025,Mb legend spirit,3300
+10-02-2025,Mb starwalker,2300
+11-02-2025,Mb emblem,3000
+12-02-2025,Mb Individual man ,2200
+13-02-2025,Mb Individual ladies,2300
+14-02-2025,Roberto cavalli paradiso2,700
+15-02-2025,Roberto cavalli aqua ,2700
+16-02-2025,Roberto cavalli ladies ,2800
+17-02-2025,St DuPont so edt 100ml,3200
+18-02-2025,St DuPont pure essence,3400
+19-02-2025,St DuPont pure femme ,3200
+20-02-2025,Zara midnight hour,3800
+21-02-2025,Zara light,3800
+22-02-2025,Cartier declaration man,5500
+23-02-2025,Issey miayke intense man ,2900
+24-02-2025,Issey miayke sport,2900
+25-02-2025,Issey miayke ladies ,4000
+26-02-2025,Issey maiyke majure intense,3800
+27-02-2025,Estee pleasure ladies ,4100
+28-02-2025,Estee pleasure man ,3800
+01-03-2025,Estee beautiful 75ml ,3800
+02-03-2025,Gucci bloom nattree di flori intense edp ,7000
+03-03-2025,Gucci bloom aqua di flori ,8100
+04-03-2025,Gucci bloom edt 100ml ,7100
+05-03-2025,Gucci bamboo edt 75mlv,6300
+06-03-2025,Gucci bloom gorgeous guardian v,7800
+07-03-2025,Gucci bloom Ambrori di flori edp ,7000
+08-03-2025,Narsico rod for her pink ,4300
+09-03-2025,Narsico rod for him grey ,4300
+10-03-2025,Narsico rod musc fleur pink ,4300
+11-03-2025,Narsico rod musc fleur black ,4300
+12-03-2025,True love edt 100ml,1750
+13-03-2025,United Benetton  sisteland ,900
+14-03-2025,Mancera roses vanilla ,5500
+15-03-2025,Mancera cedret boise 5400Mancera gold,5350
+16-03-2025,Mercedez Benz intense man 240ml ,3800
+17-03-2025,Ysl moon Paris,6300
+18-03-2025,Ysl mood Paris intensement  ,6600
+19-03-2025,Ysl black opium edp,6400
+20-03-2025,Ysl le parfume ,9000
+21-03-2025,Ysl libre edp ,9500
+22-03-2025,Ysl kourous blue  aftershave,3600
+23-03-2025,Tommy man,2000
+24-03-2025,Tommy man 50ml  ,1500
+25-03-2025,My 5th avenue ,1700
+26-03-2025,5th avenue  ,2200
+27-03-2025,Green tea ,1100
+28-03-2025,Sunflower ,1200
+29-03-2025,Green tea variety ,1200
+30-03-2025,5th avenue night,1700
+31-03-2025,Lacoste white 175ml,4100
+01-04-2025,Lacoste touch of pink ,2700
+02-04-2025,Lacoste love of pink,2800
+03-04-2025,Lacostel homme,3400
+04-04-2025,Very good girl edp 80ml ,6600
+05-04-2025,Verwang ladies ,3700
+06-04-2025,Paco ultraviolet ladies ,3600
+07-04-2025,Paco green aftershave ,1700
+08-04-2025,Pacoone million edt ,4000
+09-04-2025,Dkny be delicious woman ,2900
+10-04-2025,Bon chin edt 100ml ,3900
+11-04-2025,Ckin2u man 150ml ,2250
+12-04-2025,Ckin2u ladies 100ml ,1750
+13-04-2025,Ckin2uladies 150ml,2250
+14-04-2025,Ck obession man ,1950
+15-04-2025,Ck obession ladies ,2100
+16-04-2025,Ck contradiction ladies ,2100
+17-04-2025,Ckone 200ml,2600
+18-04-2025,Ck one 100ml ,1700
+19-04-2025,Ck be 200ml ,2100
+20-04-2025,Ck be 100ml ,1700
+21-04-2025,Ck one gold 200ml,3100
+22-04-2025,Ck eternity man  ,2500
+23-04-2025,Ck eternity flame ladies,3400
+24-04-2025,Ck defy man,3700
+25-04-2025,Eternity moment ,2100
+26-04-2025,Lalique encre noir ,2400
+27-04-2025,Burberry weekend man ,2400
+28-04-2025,Burberry weekend women ,2600
+29-04-2025,Coolwater women deo,775
+30-04-2025,Gucci intense oud,8300
+01-05-2025,Boss just different,2800
+02-05-2025,YSL y libre  ,9000
+03-05-2025,Ysy y le perfume,9500
+04-05-2025,Burberry for her edt ,4500
+05-05-2025,Lancome miracle women,
+06-05-2025,Armani code profumo ,5300
+07-05-2025,Versace red jeans ,1700
+08-05-2025,Givenchy p interdict ,4500
+09-05-2025,Jaguar black,1050
+10-05-2025,Jagaur gold ,1200
+11-05-2025,Jagaur blue ,1050
+12-05-2025,Jagaur green,1000
+13-05-2025,Jagaur red ,1250
+14-05-2025,Jaguar ultimate power,1350
+15-05-2025,Jaguar electric sky  ,1350
+16-05-2025,D&g king edt 100ml ,4500
+17-05-2025,D&g light blue man ,3600
+18-05-2025,D&g no 3 femme ,2900
+19-05-2025,D&g no 3 limited edition  ,3200
+20-05-2025,D&g light blue forever man ,3800
+21-05-2025,D&g light blue love and love ladies ,4600
+22-05-2025,Miss Dior blooming bouquet  ,9600
+23-05-2025,Miss Dior edp 100ml ,9300
+24-05-2025,Dior poison girl ,9200
+25-05-2025,Dior sauvage edp ,9000
+26-05-2025,Dior Fahrenheit edt 100ml,6800
+27-05-2025,Dior jadore edp 100ml ,10500
+28-05-2025,Dior jadore edp 50ml,5600
+29-05-2025,Dior forever and ever,6800
+30-05-2025,Dunhill red 100ml,2000
+31-05-2025,Dunhill red 150ml ,2400
+01-06-2025,Dunhill blue 100ml,2000
+02-06-2025,Dunhill blue 150ml ,2400
+03-06-2025,Dunhill silver 100ml,2100
+04-06-2025,Guerlain I homme ideal intense edp,4500
+05-06-2025,Ferrari black ,1500
+06-06-2025,Ferrari red,1600
+07-06-2025,Aramis brown edt 110ml,2100
+08-06-2025,Aramis brown edt 240ml ,2900
+09-06-2025,Givenchy dhalia divin ,3800
+10-06-2025,Givenchy blue label ,3800
+11-06-2025,Givenchy I interit edp 50ml ,4500
+12-06-2025,Hugo xy man ,3100
+13-06-2025,Hugo boss element ,2700
+14-06-2025,Hugo just different 125ml. ,2750
+15-06-2025,Hugo green 125ml ,2750
+16-06-2025,Hugo green 200ml ,3400
+17-06-2025,Verscae bright crystal  ,4500
+18-06-2025,Versace red jeans ,1700
+19-06-2025,Verscae eau frachie  ,3700
+20-06-2025,Versace Eros man ,4500
+21-06-2025,Versace parfume ,7800
+22-06-2025,Versace Eros edp ,5700
+23-06-2025,Verscae Eros flame edp,5100
+24-06-2025,Azzaro black 100ml ,2700
+25-06-2025,Azzaro black 200ml ,3300
+26-06-2025,Azzaro night time  ,1900
+27-06-2025,Azzaro chrome 100ml ,2650
+28-06-2025,Azzaro chrome sport ,2200
+29-06-2025,Azzaro chrome legend ,2800
+30-06-2025,Azzaro limited edition,2100
+01-07-2025,Azzaro black 50ml,1500
+02-07-2025,Azzaro silver black,2100
+03-07-2025,Azzaro decibel edt 100ml,2500
+04-07-2025,Azzaro visit man ,1950
+05-07-2025,Azzaro wanted girl  ,3600
+06-07-2025,212 Man  200ml,6200
+07-07-2025,212 ladies,3200
+08-07-2025,212 sexy man ,4000
+09-07-2025,212 sexy ladies  ,4100
+10-07-2025,212 vip.black man  ,4400
+11-07-2025,Victoria secret bombshell paradise ,5000
+12-07-2025,Victoria secret bombshell pink ,5200
+13-07-2025,Victoria secret tease ,5100
+14-07-2025,Victoria secret tease rabel,4900
+15-07-2025,Victoria secret bombshell seduction 5100Victoria secret eau di parfume ,5100
+16-07-2025,Chanel coco madammosille  ,11500
+17-07-2025,Chanel platinum egoiste ,11500
+18-07-2025,Chanel coco noir,11500
+19-07-2025,Chanel chance eau tender ,11500
+20-07-2025,Chanel no 5edp ,11500
+21-07-2025,Chanel no 5 leau ,11500
+22-07-2025,Chanel coco madammosille prive,11500
+23-07-2025,Lancome la vie est belle,7800
+24-07-2025,Lalique encre noir,2400
+25-07-2025,Happy ladies,3700
+26-07-2025,Wave man 125ml,2100
+27-07-2025,The game man,2100
+28-07-2025,Coolwater man ,1800
+29-07-2025,Coolwater ladies,1800
+30-07-2025,Coolwater man 200ml ,2400
+31-07-2025,Coolwater carbbien summer man,2100
+01-08-2025,Hotwater ,1750
+02-08-2025,Adventure,1900
+03-08-2025,Coolwater summer man ,2200
+04-08-2025,Coolwater exotic summer ,2200
+05-08-2025,Guess girl ,1600
+06-08-2025,Guess pink ladies  ,1600
+07-08-2025,Guess night man,1600
+08-08-2025,Guess dare man ,1600
+09-08-2025,Guess green man,1500
+10-08-2025,Joop red 200mlv,2600
+11-08-2025,Armani my way,7800
+12-08-2025,Armani si passion intense edp,6800
+13-08-2025,Burberry mr edp 100ml ,5200
+14-08-2025,Burberry weekend ladies ,2600
+15-08-2025,Burberry weekend man,2400
+16-08-2025,Burberry Brit him ,2800
+17-08-2025,Burberry Brit her ,2800
+18-08-2025,Burberry landon  man vl,2900
+19-08-2025,Burberry landon ladies,3000
+20-08-2025,Burberry Brit sheer,2800
+21-08-2025,Burberry touch man ,2400
+22-08-2025,Burberry touch ladies ,2600
+23-08-2025,Burbeey body edp,3100
+24-08-2025,Burberry classic red man ,2800
+25-08-2025,Burberry brit rhythm man ,2700
+26-08-2025,Burbeey brit intense man,2700
+27-08-2025,Burberry hero edt 100ml ,6300
+28-08-2025,Zara vibrat light,4000
+29-08-2025,Abercrombie Fitch man cologne,4200
+30-08-2025,Tomford black orchid ,8900
+31-08-2025,Tomford better beach,16000
+01-09-2025,Tomford tabbco oud ,16000
+02-09-2025,Tomford vanila,16000
+03-09-2025,Drakkar noir 200ml ,2800
+04-09-2025,Kenzo aqua man,3100
+05-09-2025,Mb legend Nightv,3200
+06-09-2025,Mb explore ultra blue ,4300
+07-09-2025,Mb explorer,4100
+08-09-2025,Mb legend spirit  ,3300
+09-09-2025,Mb starwalker,2300
+10-09-2025,Mb emblem ,3000
+11-09-2025,Mb Individual man ,2200
+12-09-2025,Mb Individual ladies ,2300
+13-09-2025,Roberto cavalli paradiso,2700
+14-09-2025,Roberto cavalli aqua,2700
+15-09-2025,Roberto cavalli ladies ,2800
+16-09-2025,St DuPont so edt 100ml ,3200
+17-09-2025,St DuPont pure essence ,3400
+18-09-2025,St DuPont pure femme ,3200
+19-09-2025,Zara midnight hour ,3800
+20-09-2025,Zara light ,3800
+21-09-2025,Cartier declaration man,5500
+22-09-2025,Issey miayke intense man ,2900
+23-09-2025,Issey miayke sport ,2900
+24-09-2025,Issey miayke ladies ,4000
+25-09-2025,Issey maiyke majure intense,3800
+26-09-2025,Estee pleasure ladies,4100
+27-09-2025,Estee pleasure man,3800
+28-09-2025,Estee beautiful 75ml ,3800
+29-09-2025,Gucci bloom nattree di flori intense edp ,7000
+30-09-2025,Gucci bloom aqua di flori ,8100
+01-10-2025,Gucci bloom edt 100ml,7100
+02-10-2025,Gucci bamboo edt 75mlv,6300
+03-10-2025,Gucci bloom gorgeous guardian v,7800
+04-10-2025,Gucci bloom Ambrori di flori edp ,7000
+05-10-2025,Narsico rod for her pink,4300
+06-10-2025,Narsico rod for him grey ,4300
+07-10-2025,Narsico rod musc fleur pink,4300
+08-10-2025,Narsico rod musc fleur black ,4300
+09-10-2025,True love edt 100ml ,1750
+10-10-2025,United Benetton  sisteland,900
+11-10-2025,Mancera roses vanilla,5500
+12-10-2025,Mancera cedret boise 5400Mancera gold ,5350
+13-10-2025,Mercedez Benz intense man 240ml,3800
+14-10-2025,Ysl moon Paris  ,6300
+15-10-2025,Ysl mood Paris intensement  ,6600
+16-10-2025,Ysl black opium edp,6400
+17-10-2025,Ysl le parfume,9000
+18-10-2025,Ysl libre edp,9500
+19-10-2025,Ysl kourous blue  aftershave ,3600
+20-10-2025,Tommy man ,2000
+21-10-2025,Tommy man 50ml  ,1500
+22-10-2025,My 5th avenue,1700
+23-10-2025,5th avenue ,2200
+24-10-2025,Green tea ,1100
+25-10-2025,Sunflower,1200
+26-10-2025,Green tea variety ,1200
+27-10-2025,5th avenue night,1700
+28-10-2025,Lacoste white 175ml ,4100
+29-10-2025,Lacoste touch of pink ,2700
+30-10-2025,Lacoste love of pink ,2800
+31-10-2025,Lacostel homme ,3400
+01-11-2025,Very good girl edp 80ml ,6600
+02-11-2025,Verwang ladies  ,3700
+03-11-2025,Paco ultraviolet ladies  ,3600
+04-11-2025,Paco green aftershave,1700
+05-11-2025,Pacoone million edt 100ml ,4000
+06-11-2025,Dkny be delicious woman ,2900
+07-11-2025,Bon chin edt 100ml ,3900
+08-11-2025,Ckin2u man 150ml ,2250
+09-11-2025,Ckin2u ladies 100ml ,1750
+10-11-2025,Ckin2uladies 150ml ,2250
+11-11-2025,Ck obession man  ,1950
+12-11-2025,Ck obession ladies ,2100
+13-11-2025,Ck contradiction ladies ,2100
+14-11-2025,Ckone 200ml ,2600
+15-11-2025,Ck one 100ml ,1700
+16-11-2025,Ck be 200ml ,2100
+17-11-2025,Ck be 100ml ,1700
+18-11-2025,Ck one gold 200ml  ,3100
+19-11-2025,Ck eternity man  ,2500
+20-11-2025,Ck eternity flame ladies ,3400
+21-11-2025,Ck defy man ,3700
+22-11-2025,Eternity moment ,2100
+23-11-2025,Lalique encre noir,2400
+24-11-2025,Burberry weekend man ,2400
+25-11-2025,Burberry weekend women ,2600
+26-11-2025,Coolwater women deo ,775
+27-11-2025,Gucci intense oud,8300
+28-11-2025,Boss just different,2800
+29-11-2025,YSL y libre  ,9000
+30-11-2025,Ysy y le perfume ,9500
+01-12-2025,Burberry for her edt ,4500

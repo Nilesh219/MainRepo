@@ -1,0 +1,24 @@
+settle means resolve or reject 
+
+resolve means promise has settled successfully
+reject means promise has not settled successfully
+
+
+
+async function postData(url = "", data = {}) {
+  
+   const response = await fetch(url, {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ username: "example1" }),
+   });
+   return response.json();
+   }
+
+    postData("https://example.org/post", {
+        console.log(data);
+    });
+
+
